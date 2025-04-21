@@ -3,7 +3,64 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/music/OneDrive/Documents/Github/QuanLyKhoDienThoai/src/config/JDBCUtil.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/account.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/74319198933.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/customerr.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/brand.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/286samsung-galaxy-s20-fan-edition-xanh-la-thumbnew-600x600.jpeg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DAO/ChiTietPhieuNhapDAO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/customer_32px.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img/login-image.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Main.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DAO/ChiTietInterface.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Component/Chart/CurveChart/BlankChart/BlankPlotChatRender.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/color_100px.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/realme-c35-vang-thumb-200x200.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/399samsung-galaxy-a54-5g-tim-thumb-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/xiaomi-redmi-12c-green-thumb-200x200.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/iphone-14-pro-max.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/BUS/MauSacBUS.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Component/ButtonCustom.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/BUS/DungLuongRamBUS.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/997iphone-13-mini-pink-1-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DTO/ChiTietPhieuDTO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/config/JDBCUtil.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img/quanlikhohang%20(1).sql</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DTO/PhieuNhapDTO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/1619198933.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Dialog/ChonSanPhamNhap.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/samsung-galaxy-z-fold4-120822-014401-200x200.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/BUS/SanPhamBUS.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DTO/ThongKe/ThongKeNhaCungCapDTO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/style/FlatIntelliJLaf.properties</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Component/Notification.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/customer.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DAO/KhachHangDAO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/429oppo-n2-flip-den-thumb-200x200.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/oppo-reno8-t-5g-256gb-250123-075345-200x200.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/555oppo-a95-4g-bac-2-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/close.png</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/638bDS3.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DTO/ChiTietKiemKeSanPhamDTO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/BUS/ChiTietSanPhamBUS.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DTO/ThuocTinhSanPham/DungLuongRomDTO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/DTO/ThuocTinhSanPham/HeDieuHanhDTO.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/area.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/BUS/KhuVucKhoBUS.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Component/CheckListItem.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/oppo-n2-flip-den-thumb-200x200.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/74vivo-y02s-thumb-1-2-3-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/826samsung-galaxy-a23-cam-thumb-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/samsung-galaxy-s23-ultra-2-200x200.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Log_In.java</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/177Galaxy-S22-Ultra-Burgundy-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/oppo_f9.png</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img/slogan1.png</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/add.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/203oppo-reno6-pro-grey-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/icon/account_32px.svg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/img_product/717xiaomi-redmi-note-12-4g-mono-den-600x600.jpg</file>
+            <file>file:/D:/nam3/nam3/CN_Java/GIT_project_thamkhao/QuanLyKhoDienThoai/src/GUI/Component/Chart/BarChart/Chart.java</file>
         </group>
     </open-files>
 </project-private>

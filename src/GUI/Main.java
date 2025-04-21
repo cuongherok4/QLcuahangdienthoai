@@ -20,6 +20,7 @@ public class Main extends JFrame {
     public TaiKhoanDTO user;
     Color MainColor = new Color(250, 250, 250);
 
+
     private MenuTaskbar menuTaskbar;
     private TrangChu trangChu;
 
@@ -27,7 +28,7 @@ public class Main extends JFrame {
         this.setSize(new Dimension(1400, 800));
         this.setLocationRelativeTo(null);
         this.setLayout(new BorderLayout(0, 0));
-        this.setTitle("Hệ thống quản lý kho hàng ");
+        this.setTitle("Hoàng Mạnh Cường (HMC)");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         if (user != null) {
